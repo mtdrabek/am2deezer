@@ -5,9 +5,9 @@ A Telegram bot that converts Apple Music track links to Deezer links.
 Send it a link — get a link back.
 
 ```
-https://music.apple.com/ru/album/blinding-lights/1499378429?i=1499378430
+https://music.apple.com/in/album/atsiprashow/1462803914?i=1462803916
         ↓
-https://www.deezer.com/track/892611622
+https://www.deezer.com/track/676524552
 ```
 
 ## How it works
