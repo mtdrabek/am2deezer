@@ -1,4 +1,5 @@
 # am2deezer
+(Vibe-coded. No guarantees. Don't judge me!)
 
 A Telegram bot that converts Apple Music track links to Deezer links.
 
